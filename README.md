@@ -51,3 +51,15 @@ Sou estudante/engenheira de computação apaixonada por programação, desenvolv
 ---
 ![Snake animation](https://github.com/CarolineSouza626/CarolineSouza626/blob/output/github-contribution-grid-snake.svg)
 
+## 🚀 Projetos em Destaque
+
+### [Jogo Educativo com GDevelop](https://github.com/CarolineSouza626/jogo-educativo-gdevelop)
+- **Descrição:** Jogo para ensinar lógica de programação para crianças usando GDevelop.
+- **Tecnologias:** GDevelop, JavaScript
+- **Status:** Em desenvolvimento
+
+### [Plataforma de Aprendizado em Godot](https://github.com/CarolineSouza626/plataforma-godot)
+- **Descrição:** Projeto de plataforma interativa com Godot para ensino de conceitos básicos de programação.
+- **Tecnologias:** Godot Engine, GDScript
+- **Status:** em desenvolvimento
+
