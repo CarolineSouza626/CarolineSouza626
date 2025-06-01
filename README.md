@@ -47,3 +47,7 @@ Sou estudante/engenheira de computação apaixonada por programação, desenvolv
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-souza-534694220/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/loracliny/)
+
+---
+![Snake animation](https://github.com/CarolineSouza626/CarolineSouza626/blob/output/github-contribution-grid-snake.svg)
+
