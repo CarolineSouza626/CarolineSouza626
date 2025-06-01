@@ -27,6 +27,12 @@ Sou estudante/engenheira de computação apaixonada por programação, desenvolv
 </table>
 
 ---
+## 👥 Organizações
+
+- [@APS25-1](https://github.com/APS25-1)
+- [@SGPA-extensao](https://github.com/SGPA-extensao)
+- [@ifmt-cba](https://github.com/ifmt-cba)
+
 
 ### Tecnologias que uso com frequência
 
