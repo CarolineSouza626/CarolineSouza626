@@ -9,7 +9,7 @@ Sou estudante/engenheira de computação apaixonada por programação, desenvolv
 - 💬 Pergunte-me sobre lógica de programação, desenvolvimento web, microcontroladores PIC e desenvolvimento de jogos.
 - 📫 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/caroline-souza-534694220/) ou me seguir no Instagram: [@loracliny](https://www.instagram.com/loracliny/)
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: amo ouvir audiolivros enquanto programo!
+  
 
 ---
 
